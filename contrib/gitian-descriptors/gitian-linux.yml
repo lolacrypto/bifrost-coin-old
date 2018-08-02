@@ -28,7 +28,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/bifrost-actual/bifrost-coin.git"
+- "url": "https://github.com/lolacrypto/bifrost-coin.git"
   "dir": "bifrost"
 files: []
 script: |
